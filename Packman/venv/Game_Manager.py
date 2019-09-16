@@ -138,7 +138,7 @@ class Game_Manager(Observable):
 
         while not self.game_won and not self.player.is_dead :
             for o in self.observers:
-                o.print_game(self.board)
+                o.print_game(self.board, self.player)
             self.play_game(self.board, self.list_movable_pieces, self.list_of_points)
             if not self.list_of_points:
                 for o in self.observers:

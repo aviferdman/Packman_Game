@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cc681573-c1fa-4b9d-bd56-71673ad3d0c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Game_Manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Game_Manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Interface.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -58,7 +58,7 @@ class Interface(Observer):
         print("")
         print("")
 
-    def print_game(self, board):
+    def print_game(self, board, player):
 
         for row in board:
             for col in row:
@@ -73,6 +73,7 @@ class Interface(Observer):
         else:
             ability = "off"
         print("killing monsters ability is "+ability)
+        print("your score is: "+str(player.score))
         print("pick a move: ")
 
     def print_next_level(self):
